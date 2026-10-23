@@ -5,7 +5,7 @@ const games = [
   {
     id: 1,
     name: "The Legend of Zelda: Breath of the Wild",
-    image: "/images/zelda-botw.jpg",
+    image: "images/zelda-botw.jpg",
     genre: "Aventura",
     year: 2017,
     developer: "Nintendo EPD",
@@ -16,7 +16,7 @@ const games = [
   {
     id: 2,
     name: "Uncharted 4: A Thief's End",
-    image: "/images/uncharted-4.jpg",
+    image: "images/uncharted-4.jpg",
     genre: "Aventura",
     year: 2016,
     developer: "Naughty Dog",
@@ -27,7 +27,7 @@ const games = [
   {
     id: 3,
     name: "Hollow Knight",
-    image: "/images/hollow-knight.jpg",
+    image: "images/hollow-knight.jpg",
     genre: "Aventura",
     year: 2017,
     developer: "Team Cherry",
@@ -38,7 +38,7 @@ const games = [
   {
     id: 4,
     name: "God of War",
-    image: "/images/god-of-war.jpg",
+    image: "images/god-of-war.jpg",
     genre: "Acción",
     year: 2018,
     developer: "Santa Monica Studio",
@@ -49,7 +49,7 @@ const games = [
   {
     id: 5,
     name: "Elden Ring",
-    image: "/images/elden-ring.png",
+    image: "images/elden-ring.png",
     genre: "Acción",
     year: 2022,
     developer: "FromSoftware",
@@ -60,7 +60,7 @@ const games = [
   {
     id: 6,
     name: "Doom Eternal",
-    image: "/images/doom-eternal.jpg",
+    image: "images/doom-eternal.jpg",
     genre: "Acción",
     year: 2020,
     developer: "id Software",
@@ -71,7 +71,7 @@ const games = [
   {
     id: 7,
     name: "EA Sports FC 24",
-    image: "/images/fc-24.jpg",
+    image: "images/fc-24.jpg",
     genre: "Deportes",
     year: 2023,
     developer: "EA Vancouver / EA Romania",
@@ -82,7 +82,7 @@ const games = [
   {
     id: 8,
     name: "Rocket League",
-    image: "/images/rocket-league.jpg",
+    image: "images/rocket-league.jpg",
     genre: "Deportes",
     year: 2015,
     developer: "Psyonix",
@@ -93,7 +93,7 @@ const games = [
   {
     id: 9,
     name: "NBA 2K24",
-    image: "/images/nba-2k24.jpg",
+    image: "images/nba-2k24.jpg",
     genre: "Deportes",
     year: 2023,
     developer: "Visual Concepts",
@@ -104,7 +104,7 @@ const games = [
   {
     id: 10,
     name: "Age of Empires II",
-    image: "/images/aoe-2.jpg",
+    image: "images/aoe-2.jpg",
     genre: "Estrategia",
     year: 1999,
     developer: "Ensemble Studios",
@@ -115,7 +115,7 @@ const games = [
   {
     id: 11,
     name: "Sid Meier's Civilization VI",
-    image: "/images/civ-6.jpg",
+    image: "images/civ-6.jpg",
     genre: "Estrategia",
     year: 2016,
     developer: "Firaxis Games",
@@ -126,7 +126,7 @@ const games = [
   {
     id: 12,
     name: "StarCraft II: Wings of Liberty",
-    image: "/images/starcraft-2.jpg",
+    image: "images/starcraft-2.jpg",
     genre: "Estrategia",
     year: 2010,
     developer: "Blizzard Entertainment",
