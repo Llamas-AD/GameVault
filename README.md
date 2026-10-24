@@ -91,9 +91,6 @@ Edita el archivo `src/data/games.js` y agrega un objeto con esta forma:
 
 Si usas un género nuevo, aparece solo como opción en el filtro, porque la lista se genera a partir de los datos.
 
-## Nota sobre las imágenes
-
-Las portadas incluidas son imágenes **SVG generadas para el proyecto** (placeholders con el nombre del juego), para que funcione sin internet y sin problemas de derechos de autor. Para usar portadas reales, copia los archivos (`.jpg` o `.png`) a `public/images/` y cambia el campo `image` de cada juego en `games.js`.
 
 ## Tecnologías
 
